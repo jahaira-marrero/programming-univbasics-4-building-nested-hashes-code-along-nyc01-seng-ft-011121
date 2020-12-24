@@ -1,4 +1,4 @@
-def first_challenge(epic_tragedy,characters)
+def first_challenge
    epic_tragedy = {
      montague => {},
      capulet => {}
